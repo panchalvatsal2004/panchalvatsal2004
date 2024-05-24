@@ -1,0 +1,103 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  text-transform: capitalize;
+}
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+#main {
+  height: 100%;
+  width: 100%;
+  background-color: white;
+}
+#nav {
+  height: 100px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 30px;
+}
+#nav-part1 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 5px;
+}
+#nav-part1 h2 {
+  border: 2px solid black;
+  border-radius: 50px;
+  padding: 5px 10px;
+}
+#nav-part1 i {
+  border: 2px solid black;
+  padding: 5px 10px;
+  border-radius: 50px;
+}
+#nav-part2 h1 {
+  font-size: 50px;
+  text-transform: uppercase;
+}
+#nav-part3 button {
+  border: 2px solid black;
+  border-radius: 50px;
+  padding: 5px 10px;
+}
+#btn1 {
+  background-color: white;
+}
+#btn2 {
+  background-color: orangered;
+  color: white;
+}
+#main > h1 {
+  font-size: 120px;
+  font-family: monospace;
+  text-transform: uppercase;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  text-align: center;
+}
+
+img {
+  height: 360px;
+  object-fit: cover;
+  border-radius: 50px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+#img1 {
+  transform: translate(-50%, -50%) rotate(-20deg);
+}
+#img2 {
+  transform: translate(-50%, -50%) rotate(-20deg);
+}
+#img3 {
+  transform: translate(-50%, -50%) rotate(-20deg);
+}
+
+#main > h4 {
+  position: absolute;
+  bottom: 5%;
+  left: 8%;
+}
+#icon {
+  position: absolute;
+  bottom: 5%;
+  right: 8%;
+}
+h4 {
+  font-family: sans-serif;
+  text-transform: capitalize;
+}
