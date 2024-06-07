@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://cdn.jsdelivr.net/npm/remixicon@4.2.0/fonts/remixicon.css" rel="stylesheet" />
+</head>
+
+<body>
+  <div class="main">
+    <div class="container">
+      <div class="nav-part1">
+        <h3>📣 Interviews is now in beta! Read more →</h3>
+      </div>
+      <div class="nav-part2">
+        <div class="img">
+          <img src="https://usability-hub-design.netlify.app/assets/logo.png" alt="">
+        </div>
+        <div class="navbar">
+          <a href="#">products</a>
+          <a href="#">customer</a>
+          <a href="#">pricing</a>
+          <a href="#">resources</a>
+          <button id="btn1 ">sign in</button>
+          <button id="btn2">sign up</button>
+        </div>
+        <!-- <div class="button">
+      </div> -->
+      </div>
+      <div class="container-1">
+        <div class="box-1">
+          <h1>Design Confidently.</h1>
+          <br>
+
+          <p>UsabilityHub is a remote user research platform that takes <br> the guesswork out of design decisions by
+            validating them <br> with real users.</p>
+          <br>
+          <button>get started</button>
+        </div>
+        <div class="box-2">
+          <img src="https://usability-hub-design.netlify.app/assets/group-img.jpeg" alt="">
+        </div>
+      </div>
+      <br>
+      <br>
+      <div class="text-2">
+        <h4>The world's best companies rely on UsabilityHub to make better design decisions.</h4>
+      </div>
+      <br>
+      <div class="img-2">
+        <img src="https://usability-hub-design.netlify.app/assets/google.png" alt="">
+        <img src="https://usability-hub-design.netlify.app/assets/amazon.png" alt="">
+        <img src="https://usability-hub-design.netlify.app/assets/airtable.png" alt="">
+        <img src="https://usability-hub-design.netlify.app/assets/godaddy.svg" alt="">
+        <img src="https://usability-hub-design.netlify.app/assets/asana.png" alt="">
+        <img src="https://usability-hub-design.netlify.app/assets/box.png" alt="">
+        <img src="https://usability-hub-design.netlify.app/assets/taskrabbit.png" alt="">
+      </div>
+      <div class="text-3">
+        <h1>Your user research Swiss Army knife</h1>
+      </div>
+      <div class="btn3">
+        <button>See all features →</button>
+      </div>
+      <div class="card">
+        <div class="card1">
+          <div class="img">
+            <img src="https://usability-hub-design.netlify.app/assets/cardsorting.svg" alt="">
+          </div>
+          <div class="card-text">
+            <h1>Card Sorting</h1>
+            <h2>Discover how people group and <br> label information.</h2>
+          </div>
+          <div class="btn4">
+            <button>Learn more →</button>
+          </div>
+        </div>
+        <div class="card2">
+          <div class="img">
+            <img src="https://usability-hub-design.netlify.app/assets/prototype.svg" alt="">
+          </div>
+          <div class="card-text">
+            <h1>Card Sorting</h1>
+            <h2>Discover how people group and <br> label information.</h2>
+          </div>
+          <div class="btn4">
+            <button>Learn more →</button>
+          </div>
+        </div>
+        <div class="card3">
+          <div class="img">
+            <img src="https://usability-hub-design.netlify.app/assets/firstclick.svg" alt="">
+          </div>
+          <div class="card-text">
+            <h1>Card Sorting</h1>
+            <h2>Discover how people group and <br> label information.</h2>
+          </div>
+          <div class="btn4">
+            <button>Learn more →</button>
+          </div>
+        </div>
+      </div>
+      <div class="card-2">
+        <div class="card1">
+          <div class="img">
+            <img src="https://usability-hub-design.netlify.app/assets/designsurvey.svg" alt="">
+          </div>
+          <div class="card-text">
+            <h1>Card Sorting</h1>
+            <h2>Discover how people group and <br> label information.</h2>
+          </div>
+          <div class="btn4">
+            <button>Learn more →</button>
+          </div>
+        </div>
+        <div class="card2">
+          <div class="img">
+            <img src="https://usability-hub-design.netlify.app/assets/preference.svg" alt="">
+          </div>
+          <div class="card-text">
+            <h1>Card Sorting</h1>
+            <h2>Discover how people group and <br> label information.</h2>
+          </div>
+          <div class="btn4">
+            <button>Learn more →</button>
+          </div>
+        </div>
+        <div class="card3">
+          <div class="img">
+            <img src="https://usability-hub-design.netlify.app/assets/five.svg" alt="">
+          </div>
+          <div class="card-text">
+            <h1>Card Sorting</h1>
+            <h2>Discover how people group and <br> label information.</h2>
+          </div>
+          <div class="btn4">
+            <button>Learn more →</button>
+          </div>
+        </div>
+      </div>
+      <div class="content">
+        <div class="work-img">
+          <img src="https://usability-hub-design.netlify.app/assets/feature%20img1.png" alt="">
+        </div>
+        <div class="work-content1">
+          <h4>Effortless validation for</h4>
+          <h2>Design professionals</h2>
+          <p>Test interfaces, interaction flows, iconography and more, to <br> help you create intuitive and delightful
+            experiences for <br> your users.</p>
+        </div>
+      </div>
+      <div class="content-2">
+        <div class="work-content">
+          <h4>Optimisation for</h4>
+          <h2>Marketers</h2>
+          <p>Fine-tune landing pages, messaging, and creative, helping <br> you optimise conversion rates on marketing
+            campaigns and <br> product launches.</p>
+        </div>
+        <div class="work-img">
+          <img src="https://usability-hub-design.netlify.app/assets/feature%20img2.png" alt="">
+        </div>
+
+      </div>
+      <div class="content">
+        <div class="work-img">
+          <img src="https://usability-hub-design.netlify.app/assets/feature%20img1.png" alt="">
+        </div>
+        <div class="work-content1">
+          <h4>Easier decision making for</h4>
+          <h2>Product managers</h2>
+          <p>Ensure you’re delivering the right features to the right <br> customers by validating product concepts with
+            your <br> target audience.</p>
+        </div>
+      </div>
+      <div class="about">
+        <div class="about1">
+          <h1>One platform, endless possibilities</h1>
+        </div>
+        <div class="btn6">
+          <button>See more examples → </button>
+        </div>
+      </div>
+      <!-- <div class="flax-box">
+  <div class="flax-card">
+    <img src="https://usability-hub-design.netlify.app/assets/examples1.jpeg" alt="">
+     <div class="flax-text">
+      <h3>Can users complete a task in my software interface?</h3>
+     </div>
+    <img src="https://usability-hub-design.netlify.app/assets/examples2.jpeg" alt="">
+    <img src="https://usability-hub-design.netlify.app/assets/examples3.jpeg" alt="">
+    <img src="https://usability-hub-design.netlify.app/assets/examples4.jpeg" alt="">
+  </div>
+</div> -->
+      <div class="flax-box">
+        <div class="flax-box1">
+          <img src="https://usability-hub-design.netlify.app/assets/examples1.jpeg" alt="">
+          <div class="flax-text1">
+            <h2>Can users complete a task in my software interface?</h2>
+          </div>
+        </div>
+        <div class="flax-box1">
+          <img src="https://usability-hub-design.netlify.app/assets/examples2.jpeg" alt="">
+          <div class="flax-text1">
+            <h2>Can users complete a task in my software interface?</h2>
+          </div>
+        </div>
+        <div class="flax-box1">
+          <img src="https://usability-hub-design.netlify.app/assets/examples3.jpeg" alt="">
+          <div class="flax-text1">
+            <h2>Can users complete a task in my software interface?</h2>
+          </div>
+        </div>
+        <div class="flax-box1">
+          <img src="https://usability-hub-design.netlify.app/assets/examples4.jpeg" alt="">
+          <div class="flax-text1">
+            <h2>Can users complete a task in my software interface?</h2>
+          </div>
+        </div>
+      </div>
+
+      <div class="box">
+        <div class="box-text">
+          <h1>Start testing Today</h1>
+          <h2>Take the guess work out of the design decisions</h2>
+          <div class="btn7">
+            <button>get started</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="footer">
+      <div class="footer-img">
+        <img src="https://usability-hub-design.netlify.app/assets/logo.png" alt="">
+      </div>
+      <div class="footer-links">
+        <h4 class="color">product</h4>
+        <h4>overview</h4>
+        <h4>pricing</h4>
+        <h4>Usability Hub</h4>
+        <h4>Customers Page</h4>
+        <h4>Status Page</h4>
+      </div>
+      <div class="footer-links">
+        <h4 class="color">product</h4>
+        <h4>overview</h4>
+        <h4>pricing</h4>
+        <h4>Usability Hub</h4>
+        <h4>Customers Page</h4>
+        <h4>Status Page</h4>
+      </div>
+      <div class="footer-links">
+        <h4 class="color">product</h4>
+        <h4>overview</h4>
+        <h4>pricing</h4>
+        <h4>Usability Hub</h4>
+        <h4>Customers Page</h4>
+        <h4>Status Page</h4>
+      </div>
+    </div>
+    <div class="text-end">
+      <div class="text-1">
+        <h4>Privacy Policy</h4>
+        <h4>Terms and conditions</h4>
+        <h4>Security Informations</h4>
+        <i class="ri-facebook-circle-fill"></i>
+        <i class="ri-twitter-fill"></i>
+      </div>
+    </div>
+  </div>
+  </div>
+</body>
+
+</html>
